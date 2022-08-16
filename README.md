@@ -10,6 +10,15 @@
 
 [Live Demo Link](https://livedemo.com)
 
+### Entity relationship diagram
+
+<p align="center">
+  <img 
+  src="./relationship_diagram.png"
+  alt="Entity relationship diagram"
+  >
+</p>
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
